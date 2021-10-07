@@ -1,3 +1,4 @@
+Quantifying phenological diversity: a framework based on Hill numbers theory 
 library(DescTools)
 library(wavScalogram)
 
